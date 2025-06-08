@@ -1,0 +1,6 @@
+{
+  "to": "test@example.com",
+  "subject": "Hello",
+  "body": "Testing email service",
+  "idempotencyKey": "email-001"
+}
